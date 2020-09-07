@@ -15,5 +15,5 @@ For executing the program just run
 
 The above command restores nuget packages, builds and runs the program.
 
-
+This program generates the random list of unique numbers between 1 and 10000 both inclusive.
 
