@@ -1,0 +1,12 @@
+/Users/karthikiyer/Sites/C#/CodeRandomNumbers/RandomNumberList/bin/Debug/netcoreapp3.1/RandomNumberList.deps.json
+/Users/karthikiyer/Sites/C#/CodeRandomNumbers/RandomNumberList/bin/Debug/netcoreapp3.1/RandomNumberList.runtimeconfig.json
+/Users/karthikiyer/Sites/C#/CodeRandomNumbers/RandomNumberList/bin/Debug/netcoreapp3.1/RandomNumberList.runtimeconfig.dev.json
+/Users/karthikiyer/Sites/C#/CodeRandomNumbers/RandomNumberList/bin/Debug/netcoreapp3.1/RandomNumberList.dll
+/Users/karthikiyer/Sites/C#/CodeRandomNumbers/RandomNumberList/bin/Debug/netcoreapp3.1/RandomNumberList.pdb
+/Users/karthikiyer/Sites/C#/CodeRandomNumbers/RandomNumberList/obj/Debug/netcoreapp3.1/RandomNumberList.csprojAssemblyReference.cache
+/Users/karthikiyer/Sites/C#/CodeRandomNumbers/RandomNumberList/obj/Debug/netcoreapp3.1/RandomNumberList.csproj.CoreCompileInputs.cache
+/Users/karthikiyer/Sites/C#/CodeRandomNumbers/RandomNumberList/obj/Debug/netcoreapp3.1/RandomNumberList.AssemblyInfoInputs.cache
+/Users/karthikiyer/Sites/C#/CodeRandomNumbers/RandomNumberList/obj/Debug/netcoreapp3.1/RandomNumberList.AssemblyInfo.cs
+/Users/karthikiyer/Sites/C#/CodeRandomNumbers/RandomNumberList/obj/Debug/netcoreapp3.1/RandomNumberList.dll
+/Users/karthikiyer/Sites/C#/CodeRandomNumbers/RandomNumberList/obj/Debug/netcoreapp3.1/RandomNumberList.pdb
+/Users/karthikiyer/Sites/C#/CodeRandomNumbers/RandomNumberList/obj/Debug/netcoreapp3.1/RandomNumberList.genruntimeconfig.cache
